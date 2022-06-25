@@ -10,7 +10,7 @@ function App() {
       <div className="wrap">
         <div className="card">
           <div className="card-image">
-            <img src="/public/sea.jpg" alt="surfing"/>
+            <img src="/public/sea.jpg" alt="surfing" />
             <Likes/>
           </div>
         </div>
